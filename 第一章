@@ -5,7 +5,7 @@ D言語くんはまず「GC」と言われた。世界にGCが生まれ、安心
 第一日である。
  D言語君はその光を闇を分けられた。D言語くんは光を「alias 昼 = 光;」とされ、「alias 夜 = 闇;」とされた。
 第二日である。
- D言語くんはまた言われた。「auto sea = chaos.filter!(a => is_water(a)).array;auto land = world.filter!(a => is_water(a)).array;chaos = null;」
+ D言語くんはまた言われた。「auto sea = chaos.filter!(a => is_water(a)).array;auto land = world.filter!(a => !is_water(a)).array;chaos = null;」
 世界は陸と海に分けられた。
 どこからも参照されなくなったchaosはGCに回収された。
 第三日である。
