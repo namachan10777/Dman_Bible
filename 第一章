@@ -9,3 +9,8 @@ D言語くんはまず「GC」と言われた。世界にGCが生まれ、安心
 世界は陸と海に分けられた。
 どこからも参照されなくなったchaosはGCに回収された。
 第三日である。
+ D言語くんはまた言われた。「auto forest = 100.iota.creaet_plant;land.add(forest);」地は草と種を持つ草、種のある実を結ぶ木が生え、D言語くんはこれを見てよしとされた。
+第四日である。
+ D言語くんは「auto small_light = new Light;auto big_light = new Light;昼.serManger(big_light);夜.setManager(small_light);auto stars = new num.iota.createStar;」と言われた。
+そして「sky.add(small_light);sky.add(big_light);sky.add(stars);」とされ、光とやみを分けられた。
+第五日である。
